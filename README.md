@@ -1,27 +1,30 @@
 # Food_Delivery_App
-Food delivery app: allow customers to order from a nearby restaurant at their convenience.
-
-Part admin and regiter/login/logout:
-![image](https://user-images.githubusercontent.com/73079423/172925086-3e657696-1d61-4104-8246-31eb3d645939.png)
-
-![image](https://user-images.githubusercontent.com/73079423/172925134-f17a9da9-626f-4526-ba4a-14da2b9b3627.png)
-
-![image](https://user-images.githubusercontent.com/73079423/172925185-61ead30c-87e6-46ac-a7c9-9aebeaa6360e.png)
-
-![image](https://user-images.githubusercontent.com/73079423/172925353-9fa09406-a8b1-4989-856c-8b6e17858f04.png)
-
-![image](https://user-images.githubusercontent.com/73079423/172925394-bf160452-1942-4de7-92f6-9a103cc50bf0.png)
+Food delivery app: allow staff to manage their restaurant orders 
 
 
+## Producs 
+![image](https://github.com/user-attachments/assets/c40f9656-616f-405f-8e8f-5c5bc8a65a0f)
 
-Part customer :
-![image](https://user-images.githubusercontent.com/73079423/172924406-29501f03-e9d8-450b-acc9-36d394f4c6e9.png)
+![image](https://github.com/user-attachments/assets/512235fb-186d-4763-8239-cfc740a44b6c)
 
-![image](https://user-images.githubusercontent.com/73079423/172924468-9fb91fde-e340-430a-b1ad-1f759a442e3c.png)
+![image](https://github.com/user-attachments/assets/eaf15e62-1115-4949-982f-d046c6cfd899)
 
-![image](https://user-images.githubusercontent.com/73079423/172924526-f04108a4-4dc7-464e-9a04-8e845c94d1ee.png)
+![image](https://github.com/user-attachments/assets/4f311afa-8d69-4a79-bc16-f764b651201c)
 
-![image](https://user-images.githubusercontent.com/73079423/172924596-9f8b9a10-fbb2-4ecc-b680-10f1c66783aa.png)
+...
+## Costumers
+![image](https://github.com/user-attachments/assets/4c995d8a-dfaf-4b73-a979-2bd6567dd483)
 
+![image](https://github.com/user-attachments/assets/8e858ce8-aad2-4a01-859a-6684d504b412)
 
+![image](https://github.com/user-attachments/assets/22a8afaf-c133-40ad-b832-24dd4878f632)
 
+![image](https://github.com/user-attachments/assets/4ca2f7c2-c97c-481d-9471-ec17bbe38366)
+...
+
+## Order
+![image](https://github.com/user-attachments/assets/560ce7f8-bcab-44b8-8671-72d740307876)
+
+![image](https://github.com/user-attachments/assets/5b02ba42-3f85-4784-81d7-683b3808967c)
+
+![image](https://github.com/user-attachments/assets/c56296f9-39d3-4778-a62e-d5c91072f305)
