@@ -11,7 +11,7 @@ Food delivery app: allow staff to manage their restaurant orders
 
 ![image](https://github.com/user-attachments/assets/4f311afa-8d69-4a79-bc16-f764b651201c)
 
-...
+
 ## Costumers
 ![image](https://github.com/user-attachments/assets/4c995d8a-dfaf-4b73-a979-2bd6567dd483)
 
@@ -20,7 +20,7 @@ Food delivery app: allow staff to manage their restaurant orders
 ![image](https://github.com/user-attachments/assets/22a8afaf-c133-40ad-b832-24dd4878f632)
 
 ![image](https://github.com/user-attachments/assets/4ca2f7c2-c97c-481d-9471-ec17bbe38366)
-...
+
 
 ## Order
 ![image](https://github.com/user-attachments/assets/560ce7f8-bcab-44b8-8671-72d740307876)
